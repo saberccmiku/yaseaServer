@@ -1,0 +1,71 @@
+2019/12/11 16:07:28 [notice] 13200#12368: sockinit() attempting to access sockapi
+2019/12/11 16:07:28 [notice] 13200#12368: Access to sockapi succeded!
+2019/12/11 16:07:28 [notice] 13200#12368: using sockapi from "4;144;"
+2019/12/11 16:07:28 [notice] 10116#9824: sockinit() attempting to access sockapi
+2019/12/11 16:07:28 [notice] 10116#9824: Access to sockapi succeded!
+2019/12/11 16:07:28 [notice] 10116#9824: using sockapi from "4;8;"
+2019/12/12 16:48:53 [notice] 1424#13892: sockinit() attempting to access sockapi
+2019/12/12 16:48:53 [notice] 1424#13892: Access to sockapi succeded!
+2019/12/12 16:48:53 [notice] 1424#13892: using sockapi from "4;144;"
+2019/12/12 16:48:53 [notice] 5852#9180: sockinit() attempting to access sockapi
+2019/12/12 16:48:53 [notice] 5852#9180: Access to sockapi succeded!
+2019/12/12 16:48:53 [notice] 5852#9180: using sockapi from "4;8;"
+2019/12/13 11:31:41 [notice] 6864#7244: sockinit() attempting to access sockapi
+2019/12/13 11:31:41 [notice] 6864#7244: Access to sockapi succeded!
+2019/12/13 11:31:41 [notice] 6864#7244: using sockapi from "4;144;"
+2019/12/13 11:31:41 [notice] 14508#4960: sockinit() attempting to access sockapi
+2019/12/13 11:31:41 [notice] 14508#4960: Access to sockapi succeded!
+2019/12/13 11:31:41 [notice] 14508#4960: using sockapi from "4;8;"
+2019/12/16 08:36:40 [notice] 14056#14060: sockinit() attempting to access sockapi
+2019/12/16 08:36:40 [notice] 14056#14060: Access to sockapi succeded!
+2019/12/16 08:36:40 [notice] 14056#14060: using sockapi from "4;144;"
+2019/12/16 08:36:40 [notice] 5848#13932: sockinit() attempting to access sockapi
+2019/12/16 08:36:40 [notice] 5848#13932: Access to sockapi succeded!
+2019/12/16 08:36:40 [notice] 5848#13932: using sockapi from "4;8;"
+2019/12/16 16:16:29 [error] 14056#13956: *22 hls: force fragment split: -74.568 sec, , client: 192.168.1.83, server: 0.0.0.0:1935
+2019/12/17 08:33:45 [notice] 1504#9796: sockinit() attempting to access sockapi
+2019/12/17 08:33:45 [notice] 1504#9796: Access to sockapi succeded!
+2019/12/17 08:33:45 [notice] 1504#9796: using sockapi from "4;144;"
+2019/12/17 08:33:46 [notice] 6112#11728: sockinit() attempting to access sockapi
+2019/12/17 08:33:46 [notice] 6112#11728: Access to sockapi succeded!
+2019/12/17 08:33:46 [notice] 6112#11728: using sockapi from "4;8;"
+2019/12/18 09:34:52 [notice] 3292#14168: sockinit() attempting to access sockapi
+2019/12/18 09:34:52 [notice] 3292#14168: Access to sockapi succeded!
+2019/12/18 09:34:52 [notice] 3292#14168: using sockapi from "4;144;"
+2019/12/18 09:34:52 [notice] 10196#5132: sockinit() attempting to access sockapi
+2019/12/18 09:34:52 [notice] 10196#5132: Access to sockapi succeded!
+2019/12/18 09:34:52 [notice] 10196#5132: using sockapi from "4;8;"
+2019/12/19 10:36:31 [notice] 7192#11700: sockinit() attempting to access sockapi
+2019/12/19 10:36:31 [notice] 7192#11700: Access to sockapi succeded!
+2019/12/19 10:36:31 [notice] 7192#11700: using sockapi from "4;144;"
+2019/12/19 10:36:31 [notice] 12600#13008: sockinit() attempting to access sockapi
+2019/12/19 10:36:31 [notice] 12600#13008: Access to sockapi succeded!
+2019/12/19 10:36:31 [notice] 12600#13008: using sockapi from "4;8;"
+2019/12/20 09:26:42 [notice] 15148#11820: sockinit() attempting to access sockapi
+2019/12/20 09:26:42 [notice] 15148#11820: Access to sockapi succeded!
+2019/12/20 09:26:42 [notice] 15148#11820: using sockapi from "4;144;"
+2019/12/20 09:26:42 [notice] 5280#8188: sockinit() attempting to access sockapi
+2019/12/20 09:26:42 [notice] 5280#8188: Access to sockapi succeded!
+2019/12/20 09:26:42 [notice] 5280#8188: using sockapi from "4;8;"
+2019/12/20 09:27:35 [error] 15148#4220: *1 hls: force fragment split: 50.018 sec, , client: 192.168.1.25, server: 0.0.0.0:1935
+2019/12/20 09:28:40 [error] 15148#4220: *1 hls: force fragment split: 50.025 sec, , client: 192.168.1.25, server: 0.0.0.0:1935
+2019/12/20 09:29:41 [error] 15148#4220: *1 hls: force fragment split: 50.010 sec, , client: 192.168.1.25, server: 0.0.0.0:1935
+2019/12/20 09:30:42 [error] 15148#4220: *1 hls: force fragment split: 50.019 sec, , client: 192.168.1.25, server: 0.0.0.0:1935
+2019/12/20 09:45:41 [notice] 13260#3248: sockinit() attempting to access sockapi
+2019/12/20 09:45:41 [notice] 13260#3248: Access to sockapi succeded!
+2019/12/20 09:45:41 [notice] 13260#3248: using sockapi from "4;144;"
+2019/12/20 09:45:41 [notice] 12916#7192: sockinit() attempting to access sockapi
+2019/12/20 09:45:41 [notice] 12916#7192: Access to sockapi succeded!
+2019/12/20 09:45:41 [notice] 12916#7192: using sockapi from "4;8;"
+2019/12/20 17:37:21 [notice] 3160#3312: sockinit() attempting to access sockapi
+2019/12/20 17:37:21 [notice] 3160#3312: Access to sockapi succeded!
+2019/12/20 17:37:21 [notice] 3160#3312: using sockapi from "4;8;"
+2019/12/20 17:37:24 [notice] 8436#15960: sockinit() attempting to access sockapi
+2019/12/20 17:37:24 [notice] 8436#15960: Access to sockapi succeded!
+2019/12/20 17:37:24 [notice] 8436#15960: using sockapi from "4;8;"
+2019/12/23 08:58:06 [notice] 1140#6812: sockinit() attempting to access sockapi
+2019/12/23 08:58:06 [notice] 1140#6812: Access to sockapi succeded!
+2019/12/23 08:58:06 [notice] 1140#6812: using sockapi from "4;144;"
+2019/12/23 08:58:07 [notice] 6440#6700: sockinit() attempting to access sockapi
+2019/12/23 08:58:07 [notice] 6440#6700: Access to sockapi succeded!
+2019/12/23 08:58:07 [notice] 6440#6700: using sockapi from "4;8;"
